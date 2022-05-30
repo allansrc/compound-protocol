@@ -1,5 +1,8 @@
 [![CircleCI](https://circleci.com/gh/compound-finance/compound-protocol.svg?style=svg&circle-token=5ed19932325c559a06f71f87d69012aedd2cf3fb)](https://circleci.com/gh/compound-finance/compound-protocol) [![codecov](https://codecov.io/gh/compound-finance/compound-protocol/branch/master/graph/badge.svg?token=q4UvsvVzOX)](https://codecov.io/gh/compound-finance/compound-protocol)
 
+# CloudWalk Fork :wave:
+All the changes made to the protocol by CloudWalk are available on [cw-master](../../tree/cw-master) branch.
+
 Compound Protocol
 =================
 
